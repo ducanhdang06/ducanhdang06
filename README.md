@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I’m a freshman studying Computer Science at UT Austin<be>🧑‍💻 I’m interested in full-stack web and app development <br>☁️ I'm learning about cloud computing by creating projects utilizing AWS
+👨‍🎓 I’m a freshman studying Computer Science at UT Austin<br>🧑‍💻 I’m interested in full-stack web and app development <br>☁️ I'm learning about cloud computing by creating projects utilizing AWS
 
 
 ## 🌐 Socials:
